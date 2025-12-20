@@ -1,0 +1,9 @@
+user_id,music_id,artist,genre,listen_count,liked
+1,101,Queen,Rock,15,true
+1,102,Led Zeppelin,Rock,10,true
+1,201,Tom Jobim,Classico,5,false
+2,103,AC/DC,Rock,20,true
+2,301,Chitaozinho & Xororo,Sertanejo,8,true
+3,302,Chico Buarque,Classico,12,true
+3,202,Debussy,Classico,18,true
+4,303,Fabio Jr,Sertanejo,22,true
