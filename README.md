@@ -47,8 +47,6 @@ Explorar algoritmos de grafos (PageRank, Similaridade, Comunidades)
 
 Demonstrar pensamento crítico e intencionalidade técnica
 
-Criar um repositório legível e avaliável por recrutadores técnicos e não técnicos
-
 
 
 ---
