@@ -1,0 +1,9 @@
+user_id,user_name,music_id,music_name,artist,genre,listen_count,liked
+1,Ana,101,Bohemian Rhapsody,Queen,Rock,15,true
+1,Ana,102,Stairway to Heaven,Led Zeppelin,Rock,10,true
+1,Ana,201,Garota de Ipanema,Tom Jobim,Classico,5,false
+2,Bruno,103,Back in Black,AC/DC,Rock,20,true
+2,Bruno,301,Evidencias,Chitaozinho & Xororo,Sertanejo,8,true
+3,Carlos,302,No Rancho Fundo,Chico Buarque,Classico,12,true
+3,Carlos,202,Clair de Lune,Debussy,Classico,18,true
+4,Daniela,303,Alma Gemea,Fabio Jr,Sertanejo,22,true
